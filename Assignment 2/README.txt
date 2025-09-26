@@ -1,0 +1,1 @@
+cubes rotating and orbiting like a kinetic sculpture, with multiple light sources and a background that changes color over time.
