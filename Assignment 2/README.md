@@ -1,1 +1,1 @@
-cubes rotating and orbiting like a kinetic sculpture, with multiple light sources and a background that changes color over time.
+Metallic cubes perform a synchronized, wave-like dance, illuminated by dynamic colored lights.
