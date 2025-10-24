@@ -1,3 +1,3 @@
 A 8 Bit waveform animation
 
-[![Watch the video](https://raw.githubusercontent.com/ThanooThanu/3D-Game-Development-using-C-and-OPENGL/main/Assignment%201/8%20Bit%20Waveform.mp4)]
+https://github.com/user-attachments/assets/bb34f42f-2058-4324-805c-9a93b3731e94
