@@ -3,3 +3,5 @@ W A S D and Mouse for Camera Movements.
 Press Arrow up for walk animation.
 Press J for Jump animation.
 Press K for Dance Animation.
+
+[![Watch the video](https://raw.githubusercontent.com/ThanooThanu/3D-Game-Development-using-C-and-OPENGL/main/Assignment%204/Mouse_Animation.mp4)]
